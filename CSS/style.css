@@ -1,0 +1,33 @@
+body {
+        background-color: black;
+        text-align: center;
+        color: brown;
+    }
+
+.Header {
+    text-align: centre;
+    color: rgb(180, 206, 225);
+    text-decoration: underline;
+    font-size: 30px;
+
+}
+
+#Header2 {
+    text-align: centre;
+    color: rgb(100, 201, 159);
+    text-decoration: underline;
+    font-size: 30px;
+}
+
+.p{
+    text-align: centre;
+    color: rgb(198, 213, 102);
+    font-family: "Montenegrin Gothic One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.img{
+    text-align:left;
+    border-radius:50%;
+}

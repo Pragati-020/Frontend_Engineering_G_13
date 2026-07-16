@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(114, 49, 71);
+    padding-top: 70px;
+    /* //margin-bottom: 100px; */
+}
+
+.Header1{
+    color: rgb(243, 205, 221);
+    text-align: center;
+    border: 5px solid rgb(216, 188, 198);
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    font-size: 30px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    float:left
+    
+    
+}
+.Header2{
+    color: rgb(243, 205, 221);
+    text-align: center;
+    border: 5px solid rgb(216, 188, 198) ;
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    float: right;
+}
+.Header3{
+    color: rgb(243, 205, 221);
+    text-align: center;
+    border: 5px solid rgb(216, 188, 198);
+    border-radius: 30px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    /* //float:left */
+}
+
+.btn{
+    text-align: center;
+    color: rgb(229, 196, 209);
+    border: solid rgb(230, 174, 196);
+    border-radius: 30px;
+    padding: 10p 20p;
+    cursor: pointer;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: "Oswald", sans-serif;
+    float: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 180px;
+    margin-right: 250px;
+
+}
